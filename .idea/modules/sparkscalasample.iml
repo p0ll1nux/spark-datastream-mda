@@ -26,5 +26,11 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="SBT: com.github.master:spark-stemming_2.10:0.1.0:jar" level="project" />
     <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.10.5:jar" level="project" />
+    <orderEntry type="library" name="org.apache.spark:spark-sql_2.10:1.6.1" level="project" />
+    <orderEntry type="library" name="org.apache.spark:spark-streaming_2.10:1.6.1" level="project" />
+    <orderEntry type="library" name="org.apache.spark:spark-streaming-twitter_2.10:1.6.1" level="project" />
+    <orderEntry type="library" name="com.stratio.datasource:spark-mongodb_2.10:0.11.1" level="project" />
+    <orderEntry type="library" name="org.apache.spark:spark-mllib_2.10:1.6.1" level="project" />
+    <orderEntry type="library" name="org.apache.spark:spark-core_2.10:1.6.1" level="project" />
   </component>
 </module>

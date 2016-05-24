@@ -140,6 +140,8 @@
       <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-core/2.2.7/jaxb-core-2.2.7.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
